@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Serensia.Tests/Serensia.Tests.csproj" />
+  <Project Path="Serensia/Serensia.csproj" />
+</Solution>
