@@ -16,7 +16,6 @@ Ce moteur est utile pour :
 - **Langage :** C#  
 - **Framework :** .NET 10  
 - **IDE :** Visual Studio 2026  
-- **Auteur :** Seifeddine Trabelsi  
 
 ---
 
