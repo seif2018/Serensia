@@ -41,13 +41,18 @@ Ce moteur est utile pour :
 
 Serensia.sln
 ├── Serensia/
-│ ├── Program.cs
-│ ├── Abstractions/
-│ │ └── IAmTheTest.cs
-│ └── Algorithms/
-│ └── WordSuggester.cs
+│   ├── Program.cs
+│   ├── Abstractions/
+│   │   ├── IAmTheTest.cs
+│   │   └── IDifferenceCalculator.cs
+│   ├── Algorithms/
+│       ├── WordSuggester.cs
+│       └── DifferenceCalculator.cs
+│   
 └── Serensia.Tests/
-└── WordSuggesterTests.cs
+    ├── WordSuggesterTests.cs
+    └── DifferenceCalculatorTests.cs
+
 
 ---
 
